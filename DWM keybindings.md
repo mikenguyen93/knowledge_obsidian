@@ -14,7 +14,7 @@ MODKEY = Alt
 - MODKEY | Shift | . : send focus windows to the next monitors
 - MODKEY | Shift | , : send focus windows to the previous monitor. 
 - MODKEY | Shift | f : make a widows fullscreen
-in ST: 
+in ST (the terminall): 
 - Zoom in/ out: Control | Shift | pgUp/PgDown
 
 

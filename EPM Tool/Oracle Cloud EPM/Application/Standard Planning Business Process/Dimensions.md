@@ -16,7 +16,7 @@ Custom Dimensions (can be created up to 32 custom dimensions) such as:
 	Channel
 	Employee
 	
-User-Defined custom dimensions cannot be deleted
+User-Defined custom dimensions cannot be deleted after creation
 # Dimensions properties 
 define how each member within each dimension behaves and displays
 
@@ -44,3 +44,14 @@ Generations and lelves: help locate a member's position relative to the top of t
 
 Hierarchy Aggregations and Calculations based on aggregation options: 
 ![[Pasted image 20261008145841.png]]
+
+# Sparse and Dense Dimensions:
+
+
+| Sparse                                               | Dense                                         |
+| ---------------------------------------------------- | --------------------------------------------- |
+| Lack data values for majority of member combinations | Have data values for majority of combinations |
+| Except Account and Period, all dimens are Sparse     | Account and Period are dense                  |
+| Calculate only occupied data values                  | Calculate all combination                     |
+
+Custom attributes cannot be assigned to dense dimensions

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPM Tool/Oracle Cloud EPM/Application/Standard Planning Business Process/Standard Planning Process.md",
+                "file": "EPM Tool/Oracle Cloud EPM/Application/Standard Planning Business Process/Dimensions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Standard Planning Process"
+              "title": "Dimensions"
             }
           }
         ]
@@ -202,8 +202,8 @@
   },
   "active": "7765e5a87d317ea8",
   "lastOpenFiles": [
-    "EPM Tool/Oracle Cloud EPM/Application/Standard Planning Business Process/Dimensions.md",
     "EPM Tool/Oracle Cloud EPM/Application/Standard Planning Business Process/Standard Planning Process.md",
+    "EPM Tool/Oracle Cloud EPM/Application/Standard Planning Business Process/Dimensions.md",
     "EPM Tool/Oracle Cloud EPM/Oracle Cloud EPM general knowledeges.md",
     "EPM Tool/Oracle Cloud EPM/Planning Business Process/Planning Business Process.md",
     "Images/Pasted image 20261008153130.png",

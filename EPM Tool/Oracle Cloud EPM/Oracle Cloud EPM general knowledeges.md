@@ -49,3 +49,6 @@ Finnally ongoing maintenance is instrumental within the application; including b
 
 EPM Center of Excellence
 ![[Pasted image 20261008110229.png]]
+
+
+Visit docs.oracle.com for best practices and other documentations 
